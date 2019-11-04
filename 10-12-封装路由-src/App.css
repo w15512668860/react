@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+html, body, #root {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+header {
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #cccccc;
+}
+.my-swiper-slide {
+    width: 100%;
+    height: 234px;
+    overflow: hidden;
+}
+.list-item {
+    padding: 20px;
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
