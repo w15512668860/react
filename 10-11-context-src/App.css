@@ -1,0 +1,13 @@
+.app {
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.father {
+    padding: 10px;
+    border: 1px solid green;
+}
+.son {
+    padding: 10px;
+    border: 1px solid blue;
+}
